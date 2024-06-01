@@ -1,0 +1,6 @@
+1 - Iniciar el servidor de Apache y MySQL
+2 - En el navegador, ir a "localhost/phpmyadmin"
+3 - Crear una base de datos llamada "parqueadero"
+4 - Seleccionar la base de datos e ir a la opción "Import", seleccionar el archivo de la base de datos y darle en "Import"
+5 - Ir a NetBeans, ir a "File > Import Project > From zip", buscar el zip del proyecto e importarlo
+6 - Ir a "Window > Projects" y darle click derecho al proyecto recién ingresado, darle a la opción "Resolve Project Problems", van a aparecer unas líneas con un triangulo en amarillo, seleccionar cada linea y con cada una, presionar en "Resolve", en eso buscan el archivo correspondiente con ese nombre de la línea que seleccionaron, una vez hecho eso con cada línea, el proyecto estaría listo en conjunto con la base de datos
